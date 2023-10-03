@@ -1,0 +1,5 @@
+/Users/santiago/Projects/santiago-albanoCsharp1/santiago-albanoCsharp1/obj/Debug/net7.0/santiago-albanoCsharp1.csproj.AssemblyReference.cache
+/Users/santiago/Projects/santiago-albanoCsharp1/santiago-albanoCsharp1/obj/Debug/net7.0/santiago-albanoCsharp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiago/Projects/santiago-albanoCsharp1/santiago-albanoCsharp1/obj/Debug/net7.0/santiago-albanoCsharp1.AssemblyInfoInputs.cache
+/Users/santiago/Projects/santiago-albanoCsharp1/santiago-albanoCsharp1/obj/Debug/net7.0/santiago-albanoCsharp1.AssemblyInfo.cs
+/Users/santiago/Projects/santiago-albanoCsharp1/santiago-albanoCsharp1/obj/Debug/net7.0/santiago-albanoCsharp1.csproj.CoreCompileInputs.cache
